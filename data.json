@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Maasai",
+    "image": "assets/images/maasai.jpg",
+    "description": "Known for their colorful attire, beadwork, and warrior traditions. The Maasai are semi-nomadic pastoralists famous for their Morans who adorn red ochre."
+  },
+  {
+    "name": "Kikuyu",
+    "image": "assets/images/kikuyu.jpg",
+    "description": "The largest ethnic group in Kenya, known for agriculture, music, and folklore about Gikuyu and Mumbi. Family and land are central to Kikuyu culture."
+  },
+  {
+    "name": "Luo",
+    "image": "assets/images/luo.jpg",
+    "description": "Renowned for fishing traditions, storytelling, and music. The Luo have a strong oral history and vibrant cultural ceremonies."
+  },
+  {
+    "name": "Luhya",
+    "image": "assets/images/luhya.jpg",
+    "description": "Known for their energetic isukuti dance, farming traditions, and deep sense of community and respect for elders."
+  },
+  {
+    "name": "Kalenjin",
+    "image": "assets/images/kalenjin.jpg",
+    "description": "Famous for producing world-class long-distance runners and valuing cattle, initiation ceremonies, and oral poetry."
+  },
+  {
+    "name": "Kamba",
+    "image": "assets/images/kamba.jpg",
+    "description": "Known for woodcarving, storytelling, and traditional healing. The Akamba are skilled traders and craftsmen."
+  },
+  {
+    "name": "Meru",
+    "image": "assets/images/meru.jpg",
+    "description": "Closely related to the Kikuyu, the Meru people are known for farming, circumcision ceremonies, and clan-based governance."
+  },
+  {
+    "name": "Embu",
+    "image": "assets/images/embu.jpg",
+    "description": "Traditionally farmers and storytellers, the Embu share rich oral traditions and rituals celebrating unity and harvest."
+  },
+  {
+    "name": "Somali",
+    "image": "assets/images/somali.jpg",
+    "description": "Pastoralists of the northeastern region known for poetry, camel herding, and Islamic cultural heritage."
+  },
+  {
+    "name": "Turkana",
+    "image": "assets/images/turkana.jpg",
+    "description": "Semi-nomadic pastoralists known for beadwork, cattle culture, and strong adaptation to arid environments."
+  },
+  {
+    "name": "Samburu",
+    "image": "assets/images/samburu.jpg",
+    "description": "Close cousins to the Maasai, the Samburu are proud pastoralists known for their colorful attire and dance traditions."
+  },
+  {
+    "name": "Pokot",
+    "image": "assets/images/pokot.jpg",
+    "description": "A proud highland and lowland community famous for cattle herding, traditional songs, and respect for elders."
+  },
+  {
+    "name": "Taita",
+    "image": "assets/images/taita.jpg",
+    "description": "Residing in the Taita Hills, they are known for farming, pottery, and music reflecting harmony with nature."
+  },
+  {
+    "name": "Taveta",
+    "image": "assets/images/taveta.jpg",
+    "description": "Found near the Tanzanian border, the Taveta are traders and farmers blending Swahili and local customs."
+  },
+  {
+    "name": "Borana",
+    "image": "assets/images/borana.jpg",
+    "description": "An Oromo-speaking pastoralist group known for their Gadaa system of governance and strong Islamic traditions."
+  },
+  {
+    "name": "Rendille",
+    "image": "assets/images/rendille.jpg",
+    "description": "Nomadic herders living in northern Kenya, recognized for camel culture, unique hairstyles, and jewelry."
+  },
+  {
+    "name": "Giriama",
+    "image": "assets/images/giriama.jpg",
+    "description": "Part of the Mijikenda, the Giriama are known for kaya forests, traditional drumming, and resistance to colonial rule."
+  },
+  {
+    "name": "Swahili",
+    "image": "assets/images/swahili.jpg",
+    "description": "Coastal people influenced by Arab and African heritage, known for architecture, poetry, and the Kiswahili language."
+  },
+  {
+    "name": "Kuria",
+    "image": "assets/images/kuria.jpg",
+    "description": "A community on the Kenya–Tanzania border known for cattle keeping, elaborate initiation, and traditional dances."
+  },
+  {
+    "name": "Tharaka",
+    "image": "assets/images/tharaka.jpg",
+    "description": "Closely related to the Meru, they preserve unique folklore, proverbs, and rituals celebrating life and community."
+  }
+]
